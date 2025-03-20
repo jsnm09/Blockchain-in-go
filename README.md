@@ -16,7 +16,7 @@ A simple blockchain implementation written in Go, featuring proof-of-work consen
 
 ## How to Run
 
-1. Make sure you have Go installed (version 1.16 or higher)
+1. Make sure you have Go installed (version 1.16 or higher)!
 2. Clone this repository
 3. Run the application:
 
